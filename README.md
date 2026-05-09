@@ -1,4 +1,4 @@
 # new_repository
 Hello world
 
-I like codeing!
+I like codeing and you!
